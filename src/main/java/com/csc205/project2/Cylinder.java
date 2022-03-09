@@ -1,6 +1,6 @@
 package com.csc205.project2;
 
-public class Cylinder extends Shape{
+public class Cylinder implements Shape {
     private double height;
     private double radius;
 

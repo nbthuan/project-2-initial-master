@@ -1,6 +1,6 @@
 package com.csc205.project2;
 
-public class Cube extends Sphere {
+public class Cube extends Sphere implements Shape{
     private double width;
 
     public Cube() {
